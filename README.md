@@ -8,7 +8,7 @@ This is a rough demo made to showcase my RPG engine. Text elements and instrumen
 * R Button - Increase RTC time by 30 minutes
 * Start - Cycle seasons (can only be done indoors, changes appreciable on map load)
 * Select - Toggle brightness settings
-* + Control Pad - moves your character, even diagonally!
+* +Control Pad - moves your character, even diagonally!
 
 # Features
 * Time of day and seasons are tracked in real time, allowing maps to have dynamic tilesets and lighting
