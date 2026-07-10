@@ -22,7 +22,7 @@ This is a rough demo made to showcase my RPG engine. Text elements and instrumen
 Please enjoy and let me know if you encounter any bugs or oddities or have any other issues.
 
 # IMPORTANT
-***PLEASE NOTE THAT REAL-TIME CLOCK FEATURES MAY NOT WORK CORRECTLY ON MOST EMULATORS.***
+***PLEASE NOTE THAT REAL-TIME CLOCK FEATURES MAY NOT WORK AS INTENDED ON SOME EMULATORS.***
 
 Most emulators, with the exception of Mesen which breaks from April through November (...yes, really), won't allow you to set the date and time via the in-game interface and will in fact ignore the hardware commands to do so. They usually opt to instead use your system date and time, and as such, you may not be able to set the date/time in-game or adjust time using L/R. Playing on real hardware (i.e. a real-time clock compatible flash card) will always work correctly--as does manually changing your computer's date/time. You can do the latter to play with different lighting transitions if you like, or use L/R on real hardware (or Mesen if you set a date from December - March)
 
