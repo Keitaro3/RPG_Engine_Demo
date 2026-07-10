@@ -15,8 +15,8 @@ This is a rough demo made to showcase my RPG engine. Text elements and instrumen
 * Custom dynamic lighting system allows for real time palette adjustments base on time and season. I'm really proud of this one!
 * NPC event system which allows for random movement or movement along a specific path
 * Robust text engine which allows for different styles of textboxes and font colors, as well as audio triggers
-* Tile animation system, as can be seen in various maps in the demo
-* Metatile-specific interactions such as clocks, books, and birdcages
+* Full featured tile and palette animation system, as can be seen in various maps in the demo.
+* Metatile-specific interactions such as clocks, bookshelves, and many other map elements. Try pressing A on things!
 * That's pretty much it, so far it's just your basic top down engine otherwise, heh.
 
 Please enjoy and let me know if you encounter any bugs or oddities or have any other issues.
